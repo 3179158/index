@@ -12,11 +12,6 @@ body {
     overflow: hidden;
 }
 
-@viewport {
-  width: device-width ;
-  zoom: 1.0 ;
-}
-
 .sky-gradient {
     float: left;
     width: 4%;
