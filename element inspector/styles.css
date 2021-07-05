@@ -1,6 +1,6 @@
 html,
 body {
-    font-family: 'karla', Helvetica, sans-serif;
+    font-family: 'Castoro', 'Times New Roman', Times, serif;
     color: #ffffff;
     -webkit-font-smoothing: antialiased;
     font-smoothing: antialiased;
@@ -154,6 +154,7 @@ a {
     letter-spacing: -4px;
     word-spacing: -5px;
     padding: 18% 28%;
+    font-family: 'karla', Helvetica, sans-serif;
     font-size: 21px;
     writing-mode: vertical-rl;
     text-orientation: upright;
